@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="Style.qml">assets/Style.qml</file>
+        <file alias="fontawesome.ttf">assets/fontawesome-webfont.ttf</file>
+        <file alias="qmldir">assets/qmldir</file>
+        <file alias="fontawesome1.ttf">assets/fontawesome-4.7.0.ttf</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="thermometer.svg">assets/thermometer.svg</file>
+        <file alias="humidity.svg">assets/humidity.svg</file>
+        <file alias="home.svg">assets/home.svg</file>
+        <file alias="location.svg">assets/location.svg</file>
+        <file alias="clock.svg">assets/clock.svg</file>
+        <file alias="ArduinoUno.svg">assets/ArduinoUno.svg</file>
+        <file alias="bno.png">assets/bno.png</file>
+        <file alias="dht11.svg">assets/dht11.svg</file>
+        <file alias="ultrasonicSensor.svg">assets/ultrasonicSensor.svg</file>
+        <file alias="circleborder.png">assets/circleborder.png</file>
+        <file alias="borderRectangle.png">assets/borderRectangle.png</file>
+        <file alias="blueRectangleBorder.png">assets/blueRectangleBorder .png</file>
+        <file alias="grayRectangleBorder.png">assets/grayRectangleBorder.png</file>
+        <file alias="greenRectangleBorder.png">assets/greenRectangleBorder.png</file>
+        <file alias="gyroscopeIcon.svg">assets/gyroscopeIcon.svg</file>
+        <file alias="Project.ico">assets/Project.ico</file>
+        <file alias="Project_Icon.svg">assets/Project_Icon.svg</file>
+        <file alias="yellowCircularBorder.png">assets/yellowCircularBorder.png</file>
+        <file alias="altKatman.png">assets/altKatman.png</file>
+        <file alias="anliknokta.png">assets/anliknokta.png</file>
+        <file alias="geridekalannokta.png">assets/geridekalannokta.png</file>
+        <file alias="üstKatman.png">assets/üstKatman.png</file>
+        <file alias="grayCircularBorder.png">assets/grayCircularBorder.png</file>
+        <file alias="spalshscreen.png">assets/spalshscreen.png</file>
+        <file alias="plain-colourful-backgrounds-8.jpg">assets/plain-colourful-backgrounds-8.jpg</file>
+    </qresource>
+</RCC>

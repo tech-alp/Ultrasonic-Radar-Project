@@ -35,6 +35,9 @@ __Ligth mode__
 | HC-SR04 |  45 x 20 x 15 | 25 | 15 | 5V | Digital | 7,14₺​ |
 | SG90 |  23.1 x 12.2 x 29 | 9 | 250 | 4.8V - 6.0V | Analog | 13,26₺​ |
 
+#### System Circuit Design
+
+
 #### Demonstration
 
 1. Start communication with Arduino board
@@ -94,3 +97,8 @@ __Ligth mode__
 #### Arduino Algorithm
 
 ![](images/Arduino_UML.png)
+
+
+#### Transmiting Data From MCU
+
+![](images/transmitingdata.png)

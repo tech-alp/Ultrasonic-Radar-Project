@@ -1,0 +1,13 @@
+module components
+NavigationBar 1.0 NavigationBar.qml
+NavigationButton 1.0 NavigationButton.qml
+DataShowBar 1.0 DataShowBar.qml
+CircularProgressBar 1.0 CircularProgressBar.qml
+MyDevice 1.0 MyDevice.qml
+AccelerometerChart 1.0 AccelerometerChart.qml
+TemperatureChart 1.0 TemperatureChart.qml
+CircularInformation 1.0 CircularInformation.qml
+GyroChart 1.0 GyroChart.qml
+RadarScanning 1.0 RadarScanning.qml
+BluetoothSettingPanel 1.0 BluetoothSettingPanel.qml
+SerialSettingPanel 1.0 SerialSettingPanel.qml
