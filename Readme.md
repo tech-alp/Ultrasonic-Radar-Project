@@ -1,5 +1,9 @@
 ## ULTRASONIC RADAR PROJECT
 
+#### Demo
+
+![Farmers Market Finder - Animated gif demo](UI/demo/demo2.gif)
+
 **Dark mode**
 
 ![](images/radarProject.png)
